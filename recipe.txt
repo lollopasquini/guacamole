@@ -4,3 +4,4 @@ salt
 pepper
 cilantro
 if you want chopped tomatoes
+tortilla chips
